@@ -1,0 +1,19 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Um todoList ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarceloHofartK/todoList.git"
+  },
+  "author": "Marcelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarceloHofartK/todoList/issues"
+  },
+  "homepage": "https://github.com/MarceloHofartK/todoList#readme"
+}
